@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Data Science Seminar
+## Fall 2020
 
-You can use the [editor on GitHub](https://github.com/dlsun/ds-seminar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a seminar for the Cal Poly Data Science Fellows. We will meet weekly over Zoom on Thursdays. There are two 
+sessons: at 10 AM and at 3 PM. You only need to attend one of these sessions. Each week there will be some readings 
+relevant to data science, which we will discuss for 30 minutes. Afterwards, individual fellows will give updates on 
+their research projects.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Grading
 
-# Header 1
-## Header 2
-### Header 3
+Please enroll in STAT 400 for 1 unit, on a CR/NC grading basis.
 
-- Bulleted
-- List
+To earn a CR grade, you are expected to:
 
-1. Numbered
-2. List
+- attend all seminars
+- complete readings and post a question or comment about the reading to the Slack channel
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Readings
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The theme of the readings for Fall 2020 is **the past**.
 
-### Jekyll Themes
+### Week 1: September 17
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dlsun/ds-seminar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+No reading
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Week 2: September 24
+
+Hypothesis testing is a core part of many statistics classes. But where did the ideas such as $p$-value, Type I error, and power come from? This reading reviews the chaotic history of hypothesis testing in the 20th century.
+
+- [Chapters 10 and 11](https://github.com/dlsun/ds-seminar/raw/master/readings/LadyTastingTea-HypothesisTesting.pdf) from Salsburg, D. (2001). _The lady tasting tea: How statistics revolutionized science in the twentieth century_. Macmillan.
