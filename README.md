@@ -34,3 +34,12 @@ No reading
 Hypothesis testing is a core part of many statistics classes. But where did the ideas such as the p-value, Type I error, and power come from? This reading reviews the chaotic history of hypothesis testing in the 20th century.
 
 - [Chapters 10 and 11](https://github.com/dlsun/ds-seminar/raw/master/readings/LadyTastingTea-HypothesisTesting.pdf) from Salsburg, D. (2001). _The lady tasting tea: How statistics revolutionized science in the twentieth century_. Macmillan.
+- 
+
+
+### Week 3: September 31
+
+We will look at how hypothesis testing has influenced other disciplines and the controversy this has caused.
+
+- Cohen, J. (1994). [The earth is round (p < .05)](http://www.iro.umontreal.ca/~dift3913/cours/papers/cohen1994_The_earth_is_round.pdf). American psychologist, 49(12), 997. 
+- Gill, J. (1999). [The insignificance of null hypothesis significance testing](https://american.theopenscholar.com/files/jeffgill/files/hypo.pdf). _Political research quarterly_, 52(3), 647-674.
