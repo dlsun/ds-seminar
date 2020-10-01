@@ -37,9 +37,11 @@ Hypothesis testing is a core part of many statistics classes. But where did the 
 - 
 
 
-### Week 3: September 31
-
+### Week 3: October 1
 We will look at how hypothesis testing has influenced other disciplines and the controversy this has caused.
 
 - Cohen, J. (1994). [The earth is round (p < .05)](http://www.iro.umontreal.ca/~dift3913/cours/papers/cohen1994_The_earth_is_round.pdf). American psychologist, 49(12), 997. 
 - Gill, J. (1999). [The insignificance of null hypothesis significance testing](https://american.theopenscholar.com/files/jeffgill/files/hypo.pdf). _Political research quarterly_, 52(3), 647-674.
+
+
+
