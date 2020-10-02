@@ -52,6 +52,7 @@ defend both, although we want you to take a side in your Slack post this week.
 - New York Times Article: [The Odds, Continually Updated](readings/The%20Odds,%20Continually%20Updated%20-%20The%20New%20York%20Times.pdf)
 - [Frequentist and Bayesian Approaches in Statistics](https://www.probabilisticworld.com/frequentist-bayesian-approaches-inferential-statistics)
 - Efron, B. (2005). [Bayesians, frequentists, and scientists](https://dlsun.github.io/ds-seminar/readings/Bayesians,%20Frequentists,%20and%20Scientists.pdf). _Journal of the American Statistical Association_, 100(469), 1-5.
+- xkcd comic on [Frequentists vs. Bayesians](https://xkcd.com/1132/)
 
 Here are some additional readings that might be of interest.
 
