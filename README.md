@@ -47,7 +47,7 @@ We will look at how hypothesis testing has influenced other disciplines and the 
 ### Week 4: October 8
 
 We will look at the Frequentist vs. Bayes debate. Next week, you will be randomly assigned to defend either frequentism or Bayesianism. Please come prepared to 
-defend both, although we want you to take a side in your blog post this week.
+defend both, although we want you to take a side in your Slack post this week.
 
 - New York Times Article: [The Odds, Continually Updated](readings/The%20Odds,%20Continually%20Updated%20-%20The%20New%20York%20Times.pdf)
 - [Frequentist and Bayesian Approaches in Statistics](https://www.probabilisticworld.com/frequentist-bayesian-approaches-inferential-statistics)
