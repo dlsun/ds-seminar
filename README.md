@@ -33,7 +33,7 @@ No reading
 
 Hypothesis testing is a core part of many statistics classes. But where did the ideas such as the p-value, Type I error, and power come from? This reading reviews the chaotic history of hypothesis testing in the 20th century.
 
-- [Chapters 10 and 11](https://github.com/dlsun/ds-seminar/raw/master/readings/LadyTastingTea-HypothesisTesting.pdf) from Salsburg, D. (2001). _The lady tasting tea: How statistics revolutionized science in the twentieth century_. Macmillan.
+- [Chapters 10 and 11](readings/LadyTastingTea-HypothesisTesting.pdf) from Salsburg, D. (2001). _The lady tasting tea: How statistics revolutionized science in the twentieth century_. Macmillan.
 - 
 
 
@@ -44,4 +44,17 @@ We will look at how hypothesis testing has influenced other disciplines and the 
 - Gill, J. (1999). [The insignificance of null hypothesis significance testing](https://american.theopenscholar.com/files/jeffgill/files/hypo.pdf). _Political research quarterly_, 52(3), 647-674.
 
 
+### Week 4: October 8
 
+We will look at the Frequentist vs. Bayes debate. Next week, you will be randomly assigned to defend either frequentism or Bayesianism. Please come prepared to 
+defend both, although we want you to take a side in your blog post this week.
+
+- New York Times Article: [The Odds, Continually Updated](readings/The%20Odds,%20Continually%20Updated%20-%20The%20New%20York%20Times.pdf)
+- [Frequentist and Bayesian Approaches in Statistics](https://www.probabilisticworld.com/frequentist-bayesian-approaches-inferential-statistics)
+- Efron, B. (2005). [Bayesians, frequentists, and scientists](readings/Bayesians, Frequentists, and Scientists.pdf). _Journal of the American Statistical Association_, 100(469), 1-5.
+
+Here are some additional readings that might be of interest.
+
+- MIT Lecture Notes: [Comparison of frequentist and Bayesian inference](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading20.pdf).
+- Efron, B. (1986). [Why isn't everyone a Bayesian?](readings/Why Isn't Everyone a Bayesian.pdf) _The American Statistician_, 40(1), 1-5.
+- Andrew Gelman's blog post: [Why I Don't Like Bayesian Statistics](https://statmodeling.stat.columbia.edu/2008/04/01/problems_with_b/). (This is an April Fools' Joke written by a famous Bayesian statistician. However, it contains some good ideas.)
