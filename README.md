@@ -68,4 +68,4 @@ A survey of the history of the connection between early statistics and the eugen
 
 Bonus reading from last week:  A metaphor for the difference between randomness and unknown-ness, and the consequences in Bayesian analysis.
 
-- [The Boxer, the Wrestler, and the Coin Flip: A Paradox of Robust Bayesian Inference and Belief Functions](http://www.stat.columbia.edu/~gelman/research/published/augie4.pdf) Andrew Gellman, The American Statistician, May 2006, Vol. 60, No. 2
+- [The Boxer, the Wrestler, and the Coin Flip: A Paradox of Robust Bayesian Inference and Belief Functions](http://www.stat.columbia.edu/~gelman/research/published/augie4.pdf) Andrew Gelman, The American Statistician, May 2006, Vol. 60, No. 2
