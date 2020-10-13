@@ -59,3 +59,13 @@ Here are some additional readings that might be of interest.
 - MIT Lecture Notes: [Comparison of frequentist and Bayesian inference](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading20.pdf).
 - Efron, B. (1986). [Why isn't everyone a Bayesian?](https://dlsun.github.io/ds-seminar/readings/Why%20Isn't%20Everyone%20a%20Bayesian.pdf) _The American Statistician_, 40(1), 1-5.
 - Andrew Gelman's blog post: [Why I Don't Like Bayesian Statistics](https://statmodeling.stat.columbia.edu/2008/04/01/problems_with_b/). (This is an April Fools' Joke written by a famous Bayesian statistician. However, it contains some good ideas.)
+
+### Week 5: October 15
+
+A survey of the history of the connection between early statistics and the eugenics movement.
+
+- [Scientific Priestcraft](https://github.com/dlsun/ds-seminar/blob/master/readings/Superior_Ch3.pdf) (From "Superior: The Return of Race Science" chapter 3)
+
+Bonus reading from last week:  A metaphor for the difference between randomness and unknown-ness, and the consequences in Bayesian analysis.
+
+- [The Boxer, the Wrestler, and the Coin Flip: A Paradox of Robust Bayesian Inference and Belief Functions](http://www.stat.columbia.edu/~gelman/research/published/augie4.pdf)
