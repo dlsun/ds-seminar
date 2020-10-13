@@ -64,8 +64,8 @@ Here are some additional readings that might be of interest.
 
 A survey of the history of the connection between early statistics and the eugenics movement.
 
-- [Scientific Priestcraft](https://github.com/dlsun/ds-seminar/blob/master/readings/Superior_Ch3.pdf) (From "Superior: The Return of Race Science" chapter 3)
+- [Scientific Priestcraft](https://github.com/dlsun/ds-seminar/blob/master/readings/Superior_Ch3.pdf) From "Superior: The Return of Race Science" chapter 3
 
 Bonus reading from last week:  A metaphor for the difference between randomness and unknown-ness, and the consequences in Bayesian analysis.
 
-- [The Boxer, the Wrestler, and the Coin Flip: A Paradox of Robust Bayesian Inference and Belief Functions](http://www.stat.columbia.edu/~gelman/research/published/augie4.pdf)
+- [The Boxer, the Wrestler, and the Coin Flip: A Paradox of Robust Bayesian Inference and Belief Functions](http://www.stat.columbia.edu/~gelman/research/published/augie4.pdf) Andrew Gellman, The American Statistician, May 2006, Vol. 60, No. 2
