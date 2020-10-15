@@ -69,3 +69,10 @@ A survey of the history of the connection between early statistics and the eugen
 Bonus reading from last week:  A metaphor for the difference between randomness and unknown-ness, and the consequences in Bayesian analysis.
 
 - [The Boxer, the Wrestler, and the Coin Flip: A Paradox of Robust Bayesian Inference and Belief Functions](http://www.stat.columbia.edu/~gelman/research/published/augie4.pdf) Andrew Gelman, The American Statistician, May 2006, Vol. 60, No. 2
+
+### Week 6: October 22
+
+We will examine the history of AI winters.
+
+- [Analyzing the Prospect of an Approaching AI Winter] (https://github.com/dlsun/ds-seminar/blob/master/readings/Forschungsarbeit-Sebastian-Schuchmann-030519%20(1)%20(1).pdf) Sebastian Schuchman, May 3, 2019
+
