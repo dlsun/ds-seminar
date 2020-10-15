@@ -74,5 +74,5 @@ Bonus reading from last week:  A metaphor for the difference between randomness 
 
 We will examine the history of AI winters.
 
-- [Analyzing the Prospect of an Approaching AI Winter] (https://github.com/dlsun/ds-seminar/blob/master/readings/Forschungsarbeit-Sebastian-Schuchmann-030519%20(1)%20(1).pdf) Sebastian Schuchman, May 3, 2019
+- [Analyzing the Prospect of an Approaching AI Winter](https://github.com/dlsun/ds-seminar/blob/master/readings/Forschungsarbeit-Sebastian-Schuchmann-030519%20(1)%20(1).pdf) Sebastian Schuchman, May 3, 2019
 
