@@ -86,5 +86,5 @@ We will discuss the Turing Test and whether machines can be intelligent.
 Questions to consider:
 * Is the Turing Test a good test of whether a machine is intelligent?
 * Are today’s systems (like IBM Watson, Google’s image recognition systems, etc.) intelligent?  Could a convolutional neural network be intelligent?
-* In trying to achieve machine intelligence, should we strive to mimic the brain or should we apply a pure engineering approach?
+* In trying to achieve machine intelligence, should we try to mimic the brain or should we apply a pure engineering approach?
 * Is the brain just a computer – could its functionality be replicated by a machine?
