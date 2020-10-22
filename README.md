@@ -82,3 +82,9 @@ We will discuss the Turing Test and whether machines can be intelligent.
 
 - [Computing Machinery and Intelligence](https://github.com/dlsun/ds-seminar/blob/master/readings/computing_machinery_and_intelligence.pdf) Alan Turing, Mind, October 1950, Vol. 59, No. 236
 - [Is the Brain a Good Model for Machine Intelligence?](https://github.com/dlsun/ds-seminar/blob/master/readings/computing_machinery_and_intelligence.pdf) Rodney Brooks, Demis Hassabis, Dennis Bray, and Amnon Shashua,  Nature, Feburary 2012, Vol 482
+
+Questions to consider:
+* Is the Turing Test a good test of whether a machine is intelligent?
+* Are today’s systems (like IBM Watson, Google’s image recognition systems, etc.) intelligent?  Could a convolutional neural network be intelligent?
+* In trying to achieve machine intelligence, should we strive to mimic the brain or should we apply a pure engineering approach?
+* Is the brain just a computer – could its functionality be replicated by a machine?
