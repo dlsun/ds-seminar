@@ -81,7 +81,7 @@ We will examine the history of AI winters.
 We will discuss the Turing Test and whether machines can be intelligent.
 
 - [Computing Machinery and Intelligence](https://github.com/dlsun/ds-seminar/blob/master/readings/computing_machinery_and_intelligence.pdf) Alan Turing, Mind, October 1950, Vol. 59, No. 236
-- [Is the Brain a Good Model for Machine Intelligence?](https://github.com/dlsun/ds-seminar/blob/master/readings/computing_machinery_and_intelligence.pdf) Rodney Brooks, Demis Hassabis, Dennis Bray, and Amnon Shashua,  Nature, Feburary 2012, Vol 482
+- [Is the Brain a Good Model for Machine Intelligence?](https://github.com/dlsun/ds-seminar/blob/master/readings/is_the_brain_a_good_model_for_machine_intelligence.pdf) Rodney Brooks, Demis Hassabis, Dennis Bray, and Amnon Shashua,  Nature, Feburary 2012, Vol 482
 
 Questions to consider:
 * Is the Turing Test a good test of whether a machine is intelligent?
