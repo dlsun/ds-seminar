@@ -76,3 +76,9 @@ We will examine the history of AI winters.
 
 - [Analyzing the Prospect of an Approaching AI Winter](https://github.com/dlsun/ds-seminar/blob/master/readings/Forschungsarbeit-Sebastian-Schuchmann-030519%20(1)%20(1).pdf) Sebastian Schuchman, May 3, 2019
 
+### Week 7: October 29
+
+We will discuss the Turing Test and whether machines can be intelligent.
+
+- [Computing Machinery and Intelligence](https://github.com/dlsun/ds-seminar/blob/master/readings/computing_machinery_and_intelligence.pdf) Alan Turing, Mind, October 1950, Vol. 59, No. 236
+- [Is the Brain a Good Model for Machine Intelligence?](https://github.com/dlsun/ds-seminar/blob/master/readings/computing_machinery_and_intelligence.pdf) Rodney Brooks, Demis Hassabis, Dennis Bray, and Amnon Shashua,  Nature, Feburary 2012, Vol 482
