@@ -95,9 +95,9 @@ No reading. Focus group with Lubi.
 
 ### Week 9
 
-Main reading: Challenges and Opportunities with Big Data, a community white paper developed by leading researchers across the United States, 2012. http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/bigdatawhitepaper.pdf
+Main reading: Challenges and Opportunities with Big Data, a community white paper developed by leading researchers across the United States, 2012. <http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/bigdatawhitepaper.pdf>
 
-and The Claremont Report on Database Research, Communications of the ACM, Vol. 52, No. 8, 2009 http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/claremont-report2009.pdf
+and The Claremont Report on Database Research, Communications of the ACM, Vol. 52, No. 8, 2009 <http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/claremont-report2009.pdf>
 
 Supplemental reading:
 - 2005: Lowell self-assessment. http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/lowell-report2005.pdf
