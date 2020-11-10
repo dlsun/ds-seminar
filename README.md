@@ -88,3 +88,22 @@ Questions to consider:
 * Are today’s systems (like IBM Watson, Google’s image recognition systems, etc.) intelligent?  Could a convolutional neural network be intelligent?
 * In trying to achieve machine intelligence, should we try to mimic the brain or should we apply a pure engineering approach?
 * Is the brain just a computer – could its functionality be replicated by a machine?
+
+### Week 8
+
+No reading. Focus group with Lubi.
+
+### Week 9
+
+Main reading: Challenges and Opportunities with Big Data, a community white paper developed by leading researchers across the United States, 2012. http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/bigdatawhitepaper.pdf
+
+and The Claremont Report on Database Research, Communications of the ACM, Vol. 52, No. 8, 2009 http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/claremont-report2009.pdf
+
+Supplemental reading:
+- 2005: Lowell self-assessment. http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/lowell-report2005.pdf
+- 1998: Asilomar report. [PDF](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/Asilomar_DB_98.pdf).
+- 1996: Strategic directions in database systems. [PDF](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/StrategicDirections.pdf).
+- 1995: Achievements and Opportunities. [PDF](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/DB-research1995.pdf).
+- 1988: Future Directions in DBMS Research. [PDF](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/Stonebraker88.pdf)
+
+Given the timeframe there is no expectation that any supplemental materials will be read, but I want them available in a single place.
