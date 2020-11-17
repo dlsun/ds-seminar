@@ -107,3 +107,6 @@ Supplemental reading:
 - 1988: Future Directions in DBMS Research. [PDF](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2014/papers/Stonebraker88.pdf)
 
 Given the timeframe there is no expectation that any supplemental materials will be read, but I want them available in a single place.
+
+### Week 10
+reading: D. I. HOLMES and R. S. FORSYTH, "The Federalist Revisited: New Directions in Authorship Attribution" [PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.890.8767&rep=rep1&type=pdf)
