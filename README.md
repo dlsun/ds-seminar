@@ -110,3 +110,11 @@ Given the timeframe there is no expectation that any supplemental materials will
 
 ### Week 10
 reading: D. I. HOLMES and R. S. FORSYTH, "The Federalist Revisited: New Directions in Authorship Attribution" [PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.890.8767&rep=rep1&type=pdf)
+
+In 1964 Mosteller and Wallace showed how statistics (and Bayesian analysis) can be applied to the problem of authorship attribution, and by implication stylometry (understanding, measuring and detecting "style"). Holmes and Forsyth built on that work in the 1990s, laying the foundations for more computationally intensive methods of behavioral analysis that has major implications in our lives in 2020s. Here are some motivating questions for the discussion this week:
+
+- What are the parameters for the authorship attribution problem?
+- Do you think there's a definitive style of writing associated with each person? Can that style be faked? 
+- How has computational stylistics changed in the recent decades?
+- How does the 1964 work on Federalist Papers relate to your personal life today?
+- 
