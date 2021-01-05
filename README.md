@@ -1,4 +1,39 @@
 # Data Science Seminar
+## Fall 2021
+## Overview
+
+This is a seminar for the Cal Poly Data Science Fellows. We will meet weekly over Zoom on MWF. 
+
+Mondays:
+* Reading discussions
+* Discussions will be held in three breakout rooms, 6 students per room. 
+* Each student receives a designated role for each reading: "presenter", "supporter", "opponent".  Each breakout room will have two presenters, two supporters and two opponents.  
+* Discussions start with presenters giving a succinct and fact-based summary of the reading material. then supporters will discuss what they liked in the reading material. After that, opponents will critique the work. Following this scripted discussion, there will be additional time for back and forth between all students, and for faculty reflections on the reading material.
+
+## Grading
+
+Please enroll in ____ for 1 unit, on a CR/NC grading basis.
+
+To earn a CR grade, you are expected to:
+
+- attend all seminars
+- complete readings and post a question or comment about the reading to the Slack channel
+
+## Readings
+
+The theme of the readings for Fall 2021 is **the present**.
+
+### Week 1
+No reading
+
+### Week 2
+Topic: Bias and Fairness of Rankings and Recommendations
+
+Readings:
+* <a href="http://dlsun.github.io/ds-seminar/readings/college_chapter.pdf">Weapons of Math Destruction (Chapter)</a>
+* <a href="https://www.cmu.edu/news/stories/archives/2015/july/online-ads-research.html">Questioning the Fairness of Targeting Ads Online (Brief Summary)</a>
+* <a href="http://dlsun.github.io/ds-seminar/readings/AutomatedExperimentsonAdPrivacySettings.pdf">(Original article from the above brief summary)</a>
+
 ## Fall 2020
 
 ## Overview
@@ -8,8 +43,6 @@ sessons: at 10 AM and at 3 PM. You only need to attend one of these sessions. Ea
 relevant to data science, which we will discuss for 30 minutes. Afterwards, individual fellows will give updates on 
 their research projects.
 
-
-
 ## Grading
 
 Please enroll in STAT 400 for 1 unit, on a CR/NC grading basis.
@@ -18,7 +51,6 @@ To earn a CR grade, you are expected to:
 
 - attend all seminars
 - complete readings and post a question or comment about the reading to the Slack channel
-
 
 ## Readings
 
