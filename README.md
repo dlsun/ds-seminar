@@ -29,10 +29,14 @@ No reading
 ### Week 2
 Topic: Bias and Fairness of Rankings and Recommendations
 
+Introduction to Readings: Rankings and recommendation systems are everywhere. We take them for granted. We base a lot of big and small decisions on the results presented to us. The readings below share several themes. At their heart they are examples of models and systems that have unintended and possibly detrimental impacts on society. When you are reading them, please think about things the original designers could/should have done differently. Put yourselves in their position, and think about whether you would have forseen or anticipated any of the results or problems. Think about how you can design and study the many different models of that recommend a
+nd rank items for you. Did the paper (third link) present a reasonable approach to studying a black box? What faults do you find if any? What could be done with their
+ findings? What did the designers of both the studies and the original systems do well (i.e., think about the positive as well as the negative). 
+
 Readings:
 * <a href="http://dlsun.github.io/ds-seminar/readings/college_chapter.pdf">Weapons of Math Destruction (Chapter)</a>
 * <a href="https://www.cmu.edu/news/stories/archives/2015/july/online-ads-research.html">Questioning the Fairness of Targeting Ads Online (Brief Summary)</a>
-* <a href="http://dlsun.github.io/ds-seminar/readings/AutomatedExperimentsonAdPrivacySettings.pdf">(Original article from the above brief summary)</a>
+* <a href="http://dlsun.github.io/ds-seminar/readings/AutomatedExperimentsonAdPrivacySettings.pdf">Original article from the above brief summary</a>
 
 ## Fall 2020
 
