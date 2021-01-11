@@ -38,6 +38,16 @@ Readings:
 * <a href="https://www.cmu.edu/news/stories/archives/2015/july/online-ads-research.html">Questioning the Fairness of Targeting Ads Online (Brief Summary)</a>
 * <a href="http://dlsun.github.io/ds-seminar/readings/AutomatedExperimentsonAdPrivacySettings.pdf">Original article from the above brief summary</a>
 
+### Week 3
+Topic: Data vs. Theory
+
+Intro to reading: In 2008, Chris Anderson, then editor-in-chief of Wired Magazine, published a provocative editorial entitled "The End of Theory: The Data Deluge Makes the Scientific Method Obsolete."  He essentially argues that traditional methods of scientific discovery and business strategy are inferior in comparison to what can be achieved with data mining on large-scale datasets.  This is a fundamentally attractive idea -- that through big data, we can leave behind human-constructed models and theories about the way the world works, and instead discover directly from the data all the answers we need.  There are clearly many examples of where data-driven methods have prevailed over traditional hand-crafted alternatives, and all of you must "believe in data" somewhat based on your choice of academic field to study!  But, what is missing in Anderson's discussion of the promise and successes of big data?  Is data really all we need?  And when might data lead us astray?  
+
+Note that this article has almost 2,500 citations on Google Scholar and is widely discussed in followup blog posts and magazine articles -- you might want to search a bit to find some different perspectives on this bold idea.
+
+Reading:
+* Anderson, C. (2008).  [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/).  Wired Magazine.
+
 ## Fall 2020
 
 ## Overview
