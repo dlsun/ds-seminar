@@ -1,5 +1,5 @@
 # Data Science Seminar
-## Fall 2021
+## Winter 2021
 ## Overview
 
 This is a seminar for the Cal Poly Data Science Fellows. We will meet weekly over Zoom on MWF. 
@@ -12,7 +12,7 @@ Mondays:
 
 ## Grading
 
-Please enroll in ____ for 1 unit, on a CR/NC grading basis.
+Please enroll in DATA 472 for 1 unit, on a CR/NC grading basis.
 
 To earn a CR grade, you are expected to:
 
@@ -21,7 +21,7 @@ To earn a CR grade, you are expected to:
 
 ## Readings
 
-The theme of the readings for Fall 2021 is **the present**.
+The theme of the readings for Winter 2021 is **the present**.
 
 ### Week 1
 No reading
