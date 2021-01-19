@@ -23,6 +23,17 @@ To earn a CR grade, you are expected to:
 
 The theme of the readings for Winter 2021 is **the present**.
 
+### Week 4
+Topic: Underspecification of Neural Network Models
+
+A machine learning pipeline is underspecified when it can return many predictors with equivalently strong held-out performance in the training
+domain. The paper discusses how this results in diminished accuracy on different real-world verification sets and possible solutions to address the problem. 
+
+Reading:
+* D'Amour, A. et al. (2020).  [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://github.com/dlsun/ds-seminar/blob/master/readings/2011.03395.pdf).  Wired Magazine.
+
+
+
 ### Week 3
 Topic: Data vs. Theory
 
