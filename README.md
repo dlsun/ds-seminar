@@ -30,7 +30,7 @@ A machine learning pipeline is underspecified when it can return many predictors
 domain. The paper discusses how this results in diminished accuracy on different real-world verification sets and possible solutions to address the problem. 
 
 Reading:
-* D'Amour, A. et al. (2020).  [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://github.com/dlsun/ds-seminar/blob/master/readings/2011.03395.pdf).  Wired Magazine.
+* D'Amour, A. et al. (2020).  [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://github.com/dlsun/ds-seminar/blob/master/readings/2011.03395.pdf).  
 
 
 
