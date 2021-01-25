@@ -23,6 +23,20 @@ To earn a CR grade, you are expected to:
 
 The theme of the readings for Winter 2021 is **the present**.
 
+### Week 5
+
+Topic: Dealing With Small Data
+
+On the heels of some of our previous conversations about data science hype often going hand-in-hand with big data hype, it seemed appropriate to spend a little more explicit time on non-big data situations. This is a popular blog and probably worth an exploration beyond this article. There could actually be quite a bit to unpack with this reading. I (Glanz) challenge the "supporters" and "opposers" to really go at it with this one...Here are some starting questions, but don't feel restricted to just these.
+
+* What, if any, explicit and/or implicit assumptions is the author making when proposing each tip?
+* What are the pros and cons of each tip?
+* If your dataset is small and there's not much to do about the size, can you really call your work with it "data science"?
+
+Reading:
+
+* [7 Tips for Dealing With Small Data](https://towardsdatascience.com/7-tips-for-dealing-with-small-data-7ffbd3d399a3)
+
 ### Week 4
 Topic: Underspecification of Neural Network Models
 
