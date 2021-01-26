@@ -35,7 +35,7 @@ On the heels of some of our previous conversations about data science hype often
 
 Reading:
 
-* [7 Tips for Dealing With Small Data](https://towardsdatascience.com/7-tips-for-dealing-with-small-data-7ffbd3d399a3)
+* [7 Tips for Dealing With Small Data](https://towardsdatascience.com/7-tips-for-dealing-with-small-data-7ffbd3d399a3) or here on [github](https://github.com/dlsun/ds-seminar/blob/master/readings/7%20Tips%20for%20Dealing%20With%20Small%20Data%20_%20by%20Daniel%20Rothmann%20_%20Towards%20Data%20Science.pdf)
 
 ### Week 4
 Topic: Underspecification of Neural Network Models
