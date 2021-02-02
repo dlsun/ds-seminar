@@ -23,6 +23,17 @@ To earn a CR grade, you are expected to:
 
 The theme of the readings for Winter 2021 is **the present**.
 
+### Week 6
+
+Topic: The Reproducibility Crisis
+
+Results in science and social science are published, then turn out to be false. How serious is this problem? The "pro" side will argue that this is a crisis that undermines public trust in science, while the "opposition" will argue that the reproducibility crisis is overblown.
+
+Reading:
+
+* [Baker. Is there a reproducibility crisis?](https://github.com/dlsun/ds-seminar/blob/master/readings/Nature_ReproducibilityofResults.pdf)
+* [Simmons et al. False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant](https://github.com/dlsun/ds-seminar/blob/master/readings/Simmons%20PsySci%202011.pdf)
+
 ### Week 5
 
 Topic: Dealing With Small Data
