@@ -23,6 +23,17 @@ To earn a CR grade, you are expected to:
 
 The theme of the readings for Winter 2021 is **the present**.
 
+### Week 7
+
+Topic:  Unsupervised Clustering
+
+In Machine Learning, we talk a lot about prediction methods, where the relative "success" of any given algorithm is easily measurable.  What happens when we start applying unsupervised methods, such as clustering, where there is no clear "right" answer?  
+
+The "pro" side should argue in favor of the central thesis of the paper; namely, that there is no way to evaluate a clustering method except in the context of how the results will be used.  The "con" side should argue against this thesis, in support of some of the evaluation metrics that are critiqued in the paper.
+
+Reading:
+* [Clustering: Science or Art?](http://proceedings.mlr.press/v27/luxburg12a/luxburg12a.pdf)
+
 ### Week 6
 
 Topic: The Reproducibility Crisis
