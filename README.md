@@ -23,6 +23,23 @@ To earn a CR grade, you are expected to:
 
 The theme of the readings for Winter 2021 is **the present**.
 
+### Week 8
+
+Topic: Learning Bayesian Networks/Learning with Bayesian Networks
+
+Bayesian Networks (Bayes Nets) are compact representations of joint probability distributions over a set of discrete random variables (each with finite number of values). In a variety of settings Bayesian Netowrks can be used to describe relationships between the random variables in a succinct, and easy-to-manipulate way. Bayesian Networks can be learned from data.  In turn, a Bayesian Network can be used to simulate/synthesize a dataset.  
+
+Your assignment for Week 8 is to read one of the most influential papers on the topic of learning Bayesian Networks, and to gain some insight about the potential uses of Bayesian Networks in Machine Learning/Data Science.  The paper is more technical than the conversation that we want to have, but it is a foundational paper on the subject.
+
+The "pro" side should discuss the uses of Bayesian Networks for data science applications - situations when building Bayesian Netoworks from data is a good way to proceed.
+
+The "con" side should discuss the limitations of the use of Bayesian Networks, and the difficulties that are associated with their use.
+
+Note: one one paper is assigned. The paper was written in 1996, but was updates in 2020. Unfortunately, the 2020 version I found has no bibliogrpahy. So, two links are provided below. I recommend that you read the 2020 version, but use 1996 version for bibliographic references.
+
+* [David Heckerman: A Tutorial on Learning With Bayesian Networks- 2020 Version](https://arxiv.org/pdf/2002.00269.pdf)
+* [David Heckerman: A Tutorial on Learning With Bayesian Networks- 1996 Version](http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/dgovinda/pdf/tr-95-06.pdf)
+
 ### Week 7
 
 Topic:  Unsupervised Clustering
