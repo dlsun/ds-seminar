@@ -23,6 +23,17 @@ To earn a CR grade, you are expected to:
 
 The theme of the readings for Winter 2021 is **the present**.
 
+### Week 9
+Topic: Computational Psychiatry 
+
+We've come a long way since ELIZA! ELIZA was an AI psychiatrist that took great advantage of natural language generation and Rogerian psychological methods. While it revolutionized computational assistants, it was very limited and had no knowledge base. Today there is a resurgance of fully data driven / AI driven methods and computationally mediated methods in pscyhotherapy. Two persistent problems exist, each at a different level of abstraction: First, how do we use data-driven natural language generation but with high quality output and coherence? (unlike GPT-3!); Second: Do we have evidence that we can adapt psychotherapy method in a deepr, more fundamental way than ELIZA did?
+
+The pro side should argue that computers can solve these problems now. They can adopt the theory and solve the means of communication. The con side should be saying "hold on a minute!" We may not want to do this, and there are major reasons we don't have good enough technology anyway.
+
+Readings 
+1. [Self-Learning Architecture for Natural Language Generation](https://www.aclweb.org/anthology/W18-6520.pdf)
+2. [Towards a Neural Model of Bonding in Self-Attachment](https://ieeexplore.ieee.org/iel7/7256526/7280295/07280548.pdf)
+
 ### Week 8
 
 Topic: Learning Bayesian Networks/Learning with Bayesian Networks
