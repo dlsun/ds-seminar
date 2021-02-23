@@ -49,7 +49,7 @@ The "con" side should discuss the limitations of the use of Bayesian Networks, a
 Note: one one paper is assigned. The paper was written in 1996, but was updates in 2020. Unfortunately, the 2020 version I found has no bibliogrpahy. So, two links are provided below. I recommend that you read the 2020 version, but use 1996 version for bibliographic references.
 
 * [David Heckerman: A Tutorial on Learning With Bayesian Networks- 2020 Version](https://arxiv.org/pdf/2002.00269.pdf)
-* [David Heckerman: A Tutorial on Learning With Bayesian Networks- 1996 Version](http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/dgovinda/pdf/tr-95-06.pdf)
+* [David Heckerman: A Tutorial on Learning With Bayesian Networks- 1996 Version](http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/dgovinda/pdf/tr-95-06.pdf)(07280548.pdf)
 
 ### Week 7
 
