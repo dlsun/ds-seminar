@@ -32,7 +32,7 @@ The pro side should argue that computers can solve these problems now. They can 
 
 Readings 
 1. [Self-Learning Architecture for Natural Language Generation](https://www.aclweb.org/anthology/W18-6520.pdf)
-2. [Towards a Neural Model of Bonding in Self-Attachment](https://ieeexplore.ieee.org/iel7/7256526/7280295/07280548.pdf)
+2. [Towards a Neural Model of Bonding in Self-Attachment](http://humandevelopment.doc.ic.ac.uk/papers/ijcnn-2015-b.pdf)
 
 ### Week 8
 
