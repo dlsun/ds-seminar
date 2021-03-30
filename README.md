@@ -21,7 +21,32 @@ To earn a CR grade, you are expected to:
 
 ## Readings
 
+The theme of the readings for Spring 2021 is **the future**.
+
+### Week 1
+Topic: Predicting the future of the field
+
+> "I have traveled the length and breadth of this country and talked with the best people, and I can assure you that data processing is a fad that won't last out the year."
+> - Editor of Prentice Hall business books, 1957
+
+It's easy to look back and laugh at predictions of the future that turned out to be dead wrong.  As we move into speculative readings, that suggest hypothetical future directions for Data Science, how do we know which ones are plausible?  This week you'll read papers from the past, and compare them to a recent paper that looks ahead to the next decades of data.
+
+Readings
+1. [On the Future of Statistics (1942)](https://www.jstor.org/stable/2980609?casa_token=PP52fd7TNakAAAAA%3AqoJm6zjE9CUjLzRL3Xnoo2OScq0rqkS1QCeldkF0frjietpKs1PnFZcb0hWUKfAkhk1Qd6JAgtcdQVligKPBySNAf2fqKlhw36qTW733RANyevTa7us&seq=9#metadata_info_tab_contents)
+2. [The Future of Statistics as a Discipline (1981)](https://apps.dtic.mil/dtic/tr/fulltext/u2/a116258.pdf)
+3. [The Future of Statistics and Data Science (2018)](https://discovery.ucl.ac.uk/id/eprint/10045833/1/olhede-article-finalv4.pdf)
+
+One partner should read Reading 1, and one partner should read Reading 2.  Both should read Reading 3.
+The "pro" group should identify historical predictions that turned out to be true, and argue in favor of predictions in the 2018 paper.
+The "con" group should identify historical predictions that were off-base, and argue against predictions in the 2018 paper.
+
+
+
+## Winter 2021
+
 The theme of the readings for Winter 2021 is **the present**.
+
+## Readings
 
 ### Week 9
 Topic: Computational Psychiatry 
