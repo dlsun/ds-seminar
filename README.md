@@ -1,5 +1,5 @@
 # Data Science Seminar
-## Winter 2021
+## Spring 2021
 ## Overview
 
 This is a seminar for the Cal Poly Data Science Fellows. We will meet weekly over Zoom on MWF. 
