@@ -23,6 +23,17 @@ To earn a CR grade, you are expected to:
 
 The theme of the readings for Spring 2021 is **the future**.
 
+### Week 2
+Topic: Towards Fair, Transparent and Accountable AI
+
+Many of our discussions this year have considered the ethical implications of AI and the many pitfalls inherent in the machine learning process.  This week we will consider strategies to ensure that future AI systems are fair, transparent, and accountable, and ask whether this is even a realistic possibility.
+
+Readings
+1. [Hutson, M. It’s Too Easy to Hide Bias in Deep-Learning Systems.  IEEE Spectrum, January 2021.](https://spectrum.ieee.org/computing/software/its-too-easy-to-hide-bias-in-deeplearning-systems)
+2. [Mitchell et al., Model Cards for Model Reporting.  FAT* '19: Proceedings of the Conference on Fairness, Accountability, and Transparency, January 2019.](https://dl.acm.org/doi/abs/10.1145/3287560.3287596)
+
+The first reading points out the many ways in which an organization might try to make their AI system appear fair and unbiased, while actually operating in a biased manner.  It also discusses some possible strategies to address this problem.  The second reading proposes a way to address this problem head on, by providing a performance "report card" along with the AI model when it is distributed.  In preparing your responses, consider whether model cards are a solid strategy to address issues of fairness and transparency, and whether you think these issues can and will be addressed effectively in the future.
+
 ### Week 1
 Topic: Predicting the future of the field
 
