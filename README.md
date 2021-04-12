@@ -30,7 +30,7 @@ Topic: Examples of Explainable Boosting
 The paper covers the tradeoffs between accuracy and explainability in a predication model. It claims that explainable boosting can give us the best of both worlds. Read the paper critically and try to answer the question: “Is explainable boosting really the solution that we have all been waiting for?”
 
 Readings
-[Robert Kubler, The Explainable Boosting Machine As accurate as gradient boosting, as interpretable as linear regression.](https://towardsdatascience.com/the-explainable-boosting-machine-f24152509ebb)
+1. [Robert Kubler, The Explainable Boosting Machine As accurate as gradient boosting, as interpretable as linear regression.](https://towardsdatascience.com/the-explainable-boosting-machine-f24152509ebb)
 
 ### Week 2
 Topic: Towards Fair, Transparent and Accountable AI
