@@ -16,13 +16,19 @@ Please enroll in DATA 472 for 1 unit, on a CR/NC grading basis.
 
 To earn a CR grade, you are expected to:
 
-- attend all seminars
+- attend all seminars and events
 - complete readings and post a question or comment about the reading to the Slack channel
 
 ## Readings
 
 The theme of the readings for Spring 2021 is **the future**.
 
+### Week 4
+A position paper exploring DS computing technologies and devices of the Internet of Things.
+
+Readings
+1. [Next Grand Challenges: Integrating the Internet of
+Things and Data Science](https://dsg.tuwien.ac.at/Staff/sd/papers/Zeitschriftenartikel_2018_S_Dustdar_The_next.pdf)
 
 ### Week 3
 Topic: Examples of Explainable Boosting
