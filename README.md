@@ -24,7 +24,7 @@ To earn a CR grade, you are expected to:
 The theme of the readings for Spring 2021 is **the future**.
 
 ### Week 4
-A position paper exploring DS computing technologies and devices of the Internet of Things.
+A position paper exploring DS computing technologies and devices of the Internet of Things. There are many aspects discussed in the paper, you can pick just a few or one area to discuss. IOT has been one of the most hyped concepts for over a decade now. Is this warranted? Is IOT Data Science really different than regular DS? In what ways does it need "integration"?
 
 Readings
 1. [Next Grand Challenges: Integrating the Internet of
