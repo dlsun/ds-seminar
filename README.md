@@ -23,6 +23,17 @@ To earn a CR grade, you are expected to:
 
 The theme of the readings for Spring 2021 is **the future**.
 
+### Week 5
+A paper discussing claims of p-hacking in clinical trials. Do you believe the authors claims that p-hacking is (for the most part) not a problem when linking trials across phases? In reference to COVID-19 vaccinations and the recent problems with Johnson and Johnson's vaccine, do you have any questions or concerns you wish the companies would address? From a data science perspective, do companies need to do anything different in the future?
+
+Readings (main paper to discuss)
+1. [P-hacking in clinical trials and how incentives shape
+the distribution of results across phases](https://www.pnas.org/content/pnas/117/24/13386.full.pdf)
+
+Optional readings:
+There are many readings that can be considered relevant to this discussion. Here is a list:
+1. [Looking beyond COVID-19 vaccine phase 3 trials](https://www.nature.com/articles/s41591-021-01230-y)
+
 ### Week 4
 A position paper exploring DS computing technologies and devices of the Internet of Things. There are many aspects discussed in the paper, you can pick just a few or one area to discuss. IOT has been one of the most hyped concepts for over a decade now. Is this warranted? Is IOT Data Science really different than regular DS? In what ways does it need "integration"?
 
