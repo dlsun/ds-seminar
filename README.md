@@ -23,6 +23,16 @@ To earn a CR grade, you are expected to:
 
 The theme of the readings for Spring 2021 is **the future**.
 
+### Week 6
+
+One of the things missing from our Data Science discussions in DATA NNN coursework and beyond are recommender systems and recommendation engines. This is in part because quite a bit of methodology that goes into recommendation engines comes from classification, regression and clustering. But this is also somewhat unfortunate, because there are issues that are specific to recommender engines that get ignored. This week you are reading two surveys on recommender systems.
+
+* [Recommender Systems Survey (Bobadilla et. al, 2013)](https://doi.org/10.1016/j.knosys.2013.03.012) [local copy here](http://www.csc.calpoly.edu/~dekhtyar/ds/RecSys-Survey.pdf) The first survey is a general recommendation systems survey. It is somewhat old for "future" being the general theme, but this is the most recent general survey that looked appropriate to me.
+* [Deep Learning based Recommender System: A Survey and New Perspectives (Zhang et. al, 2018)] (https://arxiv.org/pdf/1707.07435.pdf)  [local copy here] (http://www.csc.calpoly.edu/~dekhtyar/ds/RecSys-DeepLearning-Survey.pdf). This is a newer and more in-depth technical survey documenting how deep learning techniques are used in the guts of the recommender engines.
+
+**How to read these?** The first survey is broad and not overly technical. Read fully. This will give you the background and the set up for reading the second paper. The second paper has a lot of technical content. This may be useful for you in the future, should you be tasked with building a recommendation system. In the meantime, you can internalize the methodology that is being discussed, but do not have to get too deep into the math.
+
+
 ### Week 5
 A paper discussing claims of p-hacking in clinical trials. Do you believe the authors claims that p-hacking is (for the most part) not a problem when linking trials across phases? In reference to COVID-19 vaccinations and the recent problems with Johnson and Johnson's vaccine, do you have any questions or concerns you wish the companies would address? From a data science perspective, do companies need to do anything different in the future?
 
