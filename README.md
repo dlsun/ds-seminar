@@ -23,6 +23,10 @@ To earn a CR grade, you are expected to:
 
 The theme of the readings for Spring 2021 is **the future**.
 
+### Week 8
+
+We will do an in-class activity in the seminar. To prepare for this activity, please take the [Pew Political Typology Quiz](https://www.pewresearch.org/politics/quiz/political-typology/) and then fill out [this form](https://forms.gle/kc5KFLTZtuoPc7iU8). Your answers to the form are anonymous. Please remember your political typology when you come to class.
+
 ### Week 6
 
 One of the things missing from our Data Science discussions in DATA NNN coursework and beyond are recommender systems and recommendation engines. This is in part because quite a bit of methodology that goes into recommendation engines comes from classification, regression and clustering. But this is also somewhat unfortunate, because there are issues that are specific to recommender engines that get ignored. This week you are reading two surveys on recommender systems.
