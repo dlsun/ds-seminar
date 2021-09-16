@@ -1,4 +1,7 @@
-# Data Science Seminar
+---
+layout: landing
+---
+
 ## Spring 2021
 ## Overview
 
