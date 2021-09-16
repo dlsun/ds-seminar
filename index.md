@@ -2,7 +2,7 @@
 layout: landing
 ---
 
-# Data Science Seminar Readings
+# Data Science Seminar
 
 ## Overview
 
