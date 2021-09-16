@@ -2,7 +2,8 @@
 layout: landing
 ---
 
-# Data Science Fellows
+# Data Science Seminar Readings
+
 ## Overview
 
 Content coming soon
