@@ -234,7 +234,6 @@ No reading
 Hypothesis testing is a core part of many statistics classes. But where did the ideas such as the p-value, Type I error, and power come from? This reading reviews the chaotic history of hypothesis testing in the 20th century.
 
 - [Chapters 10 and 11](http://dlsun.github.io/ds-seminar/readings/LadyTastingTea-HypothesisTesting.pdf) from Salsburg, D. (2001). _The lady tasting tea: How statistics revolutionized science in the twentieth century_. Macmillan.
-- 
 
 
 ### Week 3: October 1
