@@ -32,7 +32,7 @@ Additional Resources:
 
 - Erich Lehmann (1993). [The Fisher, Neyman-Pearson Theories of Testing Hypotheses: One Theory or Two?](https://www.jstor.org/stable/2291263). (You should be able to download a PDF when you are on the Cal Poly network or VPN.)
 - Erich Lehmann (2011). [Fisher, Neyman, and the Creation of Classical Statistics](https://link.springer.com/book/10.1007/978-1-4419-9500-1).
-- [Oral History Interviews with David Blackwell](https://www.youtube.com/watch?v=Xo_YYxsFF6Y&list=PLCwE4GdJdVRIU1j2-nzpxOIi3XSNEZ3qv).
+- [Oral History Interviews with David Blackwell](https://www.youtube.com/watch?v=Xo_YYxsFF6Y&list=PLCwE4GdJdVRIU1j2-nzpxOIi3XSNEZ3qv) (Youtube playlist).
 
 Assignment:
 
