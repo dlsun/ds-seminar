@@ -96,3 +96,22 @@ In your assigned group of 6 students:
 - Pair 2 should organize and present the strengths of the Bayesian side and the weaknesses of the Frequentist side, as they pertain to statistics and data science work.     
 - Pair 3 should comment on how these two sides pertain to day-to-day life, and whether your position on them in this context should be related to your position on them in the context of your work. Be sure to think carefully and thoroughly here. Your comments might also include similarities between the two sides in certain situations.   
 
+## Week 5: October 20
+
+We will read a classic paper by Leo Breiman entitled "Statistical Modeling: The Two Cultures."   The PDF linked below also contains comments by leading statisticians and data scientists which will give you more ideas as you prepare your presentations.
+
+#### Required Reading:
+
+- Leo Breiman: [Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author)](readings/breiman.pdf)
+
+This paper by Efron can be seen as an update to Breiman's paper 20 years later -- it is not required reading but might be interesting for you to read over:
+
+- Efron, B. (2020). [Prediction, Estimation, and Attribution](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1762613) _Journal of the American Statistical Association_.
+
+#### Assignment:
+
+In your assigned group of 6 students:
+- Pair 1 should organize and present the strengths of the "data modeling" culture.
+- Pair 2 should organize and present the strengths of the "algorithmic modeling" culture.
+- Pair 3 should compare and constrast the two cultures.
+
