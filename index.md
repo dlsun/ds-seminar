@@ -129,9 +129,9 @@ We will discuss the past and future of Artificial Intelligence (AI).
 #### Assignment:
 
 In your assigned group of 6 students: 
-- Pair 1 should review the two papers
-- Pair 2 should make the argument why AI is the best thing since peanut butter and jelly and why investment in AI will keep growing
-- Pair 3 should make the argument that history will repeat itself, reality will crush expectations, and we will head for another AI winter
+- Pair 1 should review the two papers.
+- Pair 2 should make the argument why AI is the best thing since peanut butter and jelly and why investment in AI will keep growing.
+- Pair 3 should make the argument that history will repeat itself, reality will crush expectations, and we will head for another AI winter.
 
 
 
