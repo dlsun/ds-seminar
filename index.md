@@ -115,3 +115,23 @@ In your assigned group of 6 students:
 - Pair 2 should organize and present the strengths of the "algorithmic modeling" culture.
 - Pair 3 should compare and constrast the two cultures.
 
+
+## Week 6: October 27
+
+We will discuss the past and future of Artificial Intelligence (AI). 
+
+#### Required Reading:
+
+- [Deep Learning's Diminish Returns](https://spectrum.ieee.org/deep-learning-computational-cost)
+- [Probability of an Approaching AI Winter](https://towardsdatascience.com/probability-of-an-approaching-ai-winter-c2d818fb338a)
+
+
+#### Assignment:
+
+In your assigned group of 6 students: 
+- Pair 1 should review the two papers
+- Pair 2 should make the argument why AI is the best thing since peanut butter and jelly and why investment in AI will keep growing
+- Pair 3 should make the argument that history will repeat itself, reality will crush expectations, and we will head for another AI winter
+
+
+
