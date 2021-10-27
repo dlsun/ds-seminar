@@ -134,4 +134,41 @@ In your assigned group of 6 students:
 - Pair 3 should make the argument that history will repeat itself, reality will crush expectations, and we will head for another AI winter.
 
 
+## Week 7: November 3
+
+We are starting a three-week stretch devoted to the ideas and technologies behind working with big data. Our first discussion is about relational databases, their history and their role in bringing forth our ability to work with large quantities of data.  To that end, you will read two sets of articles.
+
+The first set of articles gives you some historic perspective on the development of the **relational data model** and **relational databases**. The articles in this set are:
+
+- [E.F. Codd. A Relational Model of Data For Large Shared Data Banks, Communications of the ACM, June 1970] ( https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
+- [E.F. Codd. The 12 Rules, (excert from "Is your database fully relational?", Computerworld, Oct 1985, reprinted](https://reldb.org/c/index.php/twelve-rules/)
+- [Important Papers: Codd and the Relational Model. Two Bit History blog, Dec 2017](https://twobithistory.org/2017/12/29/codd-relational-model.html)
+
+The Codd papers provide historic descriptions of the ideas behind the modern relational databases. The blog post puts some of the information contained in these papers in the overall context.
+
+The second set of papers comes from a sequence of meetings conducted by the database research and industry community over the course of the late 20th and early 21st century. The meetings served as the community reflection points on the progress of the field of relational databases (and the field of databases in general) over the years. They also attempted to identify future challenges that the database technology and the database community needed to meet. The papers are co-authored by who's who in the area of database management systems.  The papers in this series are:
+
+- [Erich Neuhold and Michael Stonebreaker Future Directions in DBMS Research, 1988](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2012/papers/Stonebraker88.pdf)
+- [A. Silberschatz, M. Stonebraker, J. Ullman (Eds.), Database Research: Achievements and Opportunities into the 21st Century, 1995](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2012/papers/DB-research1995.pdf)
+- [A. Silberschatz, S. Zdonik et al, Strategic Directions in Database Systems - Breaking out of the Box, 1996](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2012/papers/StrategicDirections.pdf)
+- [P. Bernstein et al., The Asilomar Report on Database Research, 1998](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2012/papers/Asilomar_DB_98.pdf)
+- [S. Abiteboul et al., The Lowell Database Research Self Assessment, 2003](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2012/papers/lowell-report2005.pdf)
+- [R. Agrawal et al., The Claremont Report on Database Research, Communications of the ACM 2009](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2012/papers/claremont-report2009.pdf)
+- [D. Agrawal, Challenges and Opportunities with Big Data, 2012](http://users.csc.calpoly.edu/~dekhtyar/560-Fall2012/papers/bigdatawhitepaper.pdf)
+
+**This is a lot of reading. Please, read the instructions below carefully.**
+
+The roles for this week's assignment are:
+
+- **Role 1: Archeologists.** Students in this role will present information about the development the ideas behind modern (relational) database management systems and will discuss the importance of these ideas to today's data science.
+- **Role 2: Supporters.** Students in this role will discuss what the database community _got right_ about its challenges and the problems that it needs to tackle in a modern world.
+- **Role 3: Detractors.** Students in this role will discuss where the database community _missed_. What errors of omission and commission did the DB community commit? (Errors of omisison - something important about today's world of working with data, that the community missed. Errors of commission - something the DB community thought would be a big challenge, that was not).
+
+In order to properly address these roles with a _somewhat reasonable_ amount of reading, here is what students assigned each role should concentrate on:
+
+- **Archeologists**: study the details of the first set of papers, internalize the core ideas behind relational databases. Ask yourselves: how can these ideas be traced to todays world of data management? How were these ideas modernized/changed over the years, and how much did they endure? To answer these questions - take a cursory look through the second set of papers, concentrating on the more recent ones.
+- **Supporters** and **Detractors**. Study in detail the database reflection papers. Read the 2012 paper and the 2009 paper first, then, if you feel you need additional information - study the earlier papers. _**Split**_ the reading of earlier papers between the two people assigned the same role in the same discussion group. You **_do not have to_** read all the papers in that set.  Additionally, read the blog post from the first set of papers, and glance through Codd's papers.
+
+**Good luck!**
+
 
