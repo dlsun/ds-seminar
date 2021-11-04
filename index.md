@@ -173,7 +173,7 @@ Everyone should read in detail the following:
 
 - [Background on CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 - [Google's MapReduce Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
-- [https://www.singlestore.com/blog/hadoop-the-chronicle-of-an-expected-decline/](Hadoop: The Chronicle of an Expected Decline)
+- [Hadoop: The Chronicle of an Expected Decline](https://www.singlestore.com/blog/hadoop-the-chronicle-of-an-expected-decline/)
 
 #### Assignment:
 The "decline" of Hadoop is documented, and so it is not my intention to have you discuss why this happened. It is an interesting topic but not our focus. I'll share a bit of my own experiences with Hadoop at the beginning of seminar since it came about during my graduate school days, and I've been along for the ride ever since. 
