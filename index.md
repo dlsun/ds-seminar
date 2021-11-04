@@ -164,11 +164,23 @@ The roles for this week's assignment are:
 - **Role 2: Supporters.** Students in this role will discuss what the database community _got right_ about its challenges and the problems that it needs to tackle in a modern world.
 - **Role 3: Detractors.** Students in this role will discuss where the database community _missed_. What errors of omission and commission did the DB community commit? (Errors of omisison - something important about today's world of working with data, that the community missed. Errors of commission - something the DB community thought would be a big challenge, that was not).
 
-In order to properly address these roles with a _somewhat reasonable_ amount of reading, here is what students assigned each role should concentrate on:
+## Week 8: November 10
 
-- **Archeologists**: study the details of the first set of papers, internalize the core ideas behind relational databases. Ask yourselves: how can these ideas be traced to todays world of data management? How were these ideas modernized/changed over the years, and how much did they endure? To answer these questions - take a cursory look through the second set of papers, concentrating on the more recent ones.
-- **Supporters** and **Detractors**. Study in detail the database reflection papers. Read the 2012 paper and the 2009 paper first, then, if you feel you need additional information - study the earlier papers. _**Split**_ the reading of earlier papers between the two people assigned the same role in the same discussion group. You **_do not have to_** read all the papers in that set.  Additionally, read the blog post from the first set of papers, and glance through Codd's papers.
+We will discuss the rise and "fall" of Hadoop... and future of Hadoop. 
 
-**Good luck!**
+#### Required Reading:
+Everyone should read in detail the following:
+
+- [Background on CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [Google's MapReduce Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+- [https://www.singlestore.com/blog/hadoop-the-chronicle-of-an-expected-decline/](Hadoop: The Chronicle of an Expected Decline)
+
+#### Assignment:
+The "decline" of Hadoop is documented, and so it is not my intention to have you discuss why this happened. It is an interesting topic but not our focus. I'll share a bit of my own experiences with Hadoop at the beginning of seminar since it came about during my graduate school days, and I've been along for the ride ever since. 
+
+In your assigned group of 6 students: 
+- Pair 1 should provide summaries of the CAP Theorem, MapReduce Paper, and the blog style article.
+- Pair 2 should discuss how Hadoop can be thrive as expectations and the technology mature (i.e., in a plateau of productivity phase). Specifically, they should focus on explaining and expanding on the third article's optimism for Hadoop. For example, the authors mention technologies maturing around Hadoop: optimized data formats (ORC, Parquet) and query engines (Impala, Presto, Dremel). This pair should also discuss and expand upon the emerging best practices, and should make a general case for the long-term viability of Hadoop ecosystem.
+- Pair 3 should discuss and expand upon why the third article's optimism for Hadoop is incorrect. They likewise should go through the article and prepare specific counterpoints to the author's claims of a "plateau of productivity" future for Hadoop.
 
 
