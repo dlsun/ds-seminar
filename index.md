@@ -183,4 +183,9 @@ In your assigned group of 6 students:
 - Pair 2 should discuss how Hadoop can be thrive as expectations and the technology mature (i.e., in a plateau of productivity phase). Specifically, they should focus on explaining and expanding on the third article's optimism for Hadoop. For example, the authors mention technologies maturing around Hadoop: optimized data formats (ORC, Parquet) and query engines (Impala, Presto, Dremel). This pair should also discuss and expand upon the emerging best practices, and should make a general case for the long-term viability of Hadoop ecosystem.
 - Pair 3 should discuss and expand upon why the third article's optimism for Hadoop is incorrect. They likewise should go through the article and prepare specific counterpoints to the author's claims of a "plateau of productivity" future for Hadoop.
 
-
+## Week 9: November 17
+Everyone needs to read the following:
+- [A brief History of the Internet](https://dl.acm.org/doi/pdf/10.1145/1629607.1629613)
+- [What is Web 2.0?](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html) (make sure to read all the pages)
+- [Semantic web](https://en.wikipedia.org/wiki/Semantic_Web)
+- [Chicken Farms on the Semantic Web](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)
