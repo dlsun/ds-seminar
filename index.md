@@ -189,3 +189,8 @@ Everyone needs to read the following:
 - [What is Web 2.0?](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html) (make sure to read all the pages)
 - [Semantic web](https://en.wikipedia.org/wiki/Semantic_Web)
 - [Chicken Farms on the Semantic Web](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)
+
+In your assigned group of 6:
+- Pair 1 presents fundamental forces (social, economical, political) that were crucial to development of the World Wide Web
+- Pair 2 explain the differences between Web 1.0 and Web 2.0. Use examples and products from your own life and interaction.
+- Pair 3 explain the semantic Web. How are things likely to change based on this in the near future? Use examples.
