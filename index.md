@@ -30,6 +30,41 @@ Our first unit is on **reproducibility**. Please read the following before this 
 
 - [https://arxiv.org/pdf/2011.10098.pdf](https://arxiv.org/pdf/2011.10098.pdf)
 
+### Week 3: January 19
+
+By this class, in your same groups of three from the activity on January 12, you should pick two data science tools from the following list to compare and contrast with respect to **reproducibility**. What are the pros? What are the cons? Is one of them clearly better than the other? Why?
+
+Come to class prepared to give a 5-minute presentation on what you come up with.
+
+* RStudio
+
+* PyCharm
+
+* Jupyter
+
+* Google Colab
+
+* Amazon Web Services
+
+* Google Docs
+
+* Github
+
+* GitLab
+
+* Slack
+
+* Dropbox
+
+* Tableau
+
+* LaTeX
+
+* Microsoft Office
+
+* RMarkdown
+
+
 
 ## Fall 2021
 
