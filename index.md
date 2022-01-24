@@ -65,6 +65,24 @@ Come to class prepared to give a 5-minute presentation on what you come up with.
 * RMarkdown
 
 
+### Week 4: January 26
+
+In the next two weeks, we will discuss tooling.
+
+You will be assigned with a partner to research one of two technologies for data science: R or Python.
+
+The R group will research the advantages of:
+
+* R
+* R Markdown
+
+The Python group will research the advantages of:
+
+* Python
+* Jupyter notebooks
+
+Come prepared to discuss and debate the advantages of your assigned technology.
+
 
 ## Fall 2021
 
@@ -94,7 +112,7 @@ In your assigned group of 6 students:
 - Pair 3 should prepare slides comparing and contrasting the two approaches.
 
 
-## Week 3: October 6
+### Week 3: October 6
 
 In the early to mid 1900s, the field of eugenics - the idea that some groups or people are inherently genetically inferior - was a mainstream and well-respected scientific pursuit.  Many of the foundational ideas of classic statistics were developed in conjunction with eugenics applications.  In the modern era, now that these ideas have been rejected as racist/classist/etc, how should we regard the influential people and ideas that came out of that movement?
 
@@ -117,7 +135,7 @@ In your assigned group of 6 students:
 - Pair 2 should collect, summarize, and present arguments **against** re-contextualizing scientific contributions in light of modern ethics.     
 - Pair 3 should collect, summarize, and present arguments **for** re-contextualizing scientific contributions in light of modern ethics.
 
-## Week 4: October 13
+### Week 4: October 13
 
 We will look at the Frequentist vs. Bayes debate! Not only does this debate pertain to how you think and do your statistics and data science, but also to some of your ways of thinking every day! Please come prepared to defend both, although we want you will be asked to take a side in class.
 
@@ -148,7 +166,7 @@ In your assigned group of 6 students:
 - Pair 2 should organize and present the strengths of the Bayesian side and the weaknesses of the Frequentist side, as they pertain to statistics and data science work.     
 - Pair 3 should comment on how these two sides pertain to day-to-day life, and whether your position on them in this context should be related to your position on them in the context of your work. Be sure to think carefully and thoroughly here. Your comments might also include similarities between the two sides in certain situations.   
 
-## Week 5: October 20
+### Week 5: October 20
 
 We will read a classic paper by Leo Breiman entitled "Statistical Modeling: The Two Cultures."   The PDF linked below also contains comments by leading statisticians and data scientists which will give you more ideas as you prepare your presentations.
 
@@ -168,7 +186,7 @@ In your assigned group of 6 students:
 - Pair 3 should compare and constrast the two cultures.
 
 
-## Week 6: October 27
+### Week 6: October 27
 
 We will discuss the past and future of Artificial Intelligence (AI). 
 
@@ -186,7 +204,7 @@ In your assigned group of 6 students:
 - Pair 3 should make the argument that history will repeat itself, reality will crush expectations, and we will head for another AI winter.
 
 
-## Week 7: November 3
+### Week 7: November 3
 
 We are starting a three-week stretch devoted to the ideas and technologies behind working with big data. Our first discussion is about relational databases, their history and their role in bringing forth our ability to work with large quantities of data.  To that end, you will read two sets of articles.
 
@@ -216,7 +234,7 @@ The roles for this week's assignment are:
 - **Role 2: Supporters.** Students in this role will discuss what the database community _got right_ about its challenges and the problems that it needs to tackle in a modern world.
 - **Role 3: Detractors.** Students in this role will discuss where the database community _missed_. What errors of omission and commission did the DB community commit? (Errors of omisison - something important about today's world of working with data, that the community missed. Errors of commission - something the DB community thought would be a big challenge, that was not).
 
-## Week 8: November 10
+### Week 8: November 10
 
 We will discuss the rise and "fall" of Hadoop... and future of Hadoop. 
 
@@ -235,7 +253,7 @@ In your assigned group of 6 students:
 - Pair 2 should discuss how Hadoop can be thrive as expectations and the technology mature (i.e., in a plateau of productivity phase). Specifically, they should focus on explaining and expanding on the third article's optimism for Hadoop. For example, the authors mention technologies maturing around Hadoop: optimized data formats (ORC, Parquet) and query engines (Impala, Presto, Dremel). This pair should also discuss and expand upon the emerging best practices, and should make a general case for the long-term viability of Hadoop ecosystem.
 - Pair 3 should discuss and expand upon why the third article's optimism for Hadoop is incorrect. They likewise should go through the article and prepare specific counterpoints to the author's claims of a "plateau of productivity" future for Hadoop.
 
-## Week 9: November 17
+### Week 9: November 17
 Everyone needs to read the following:
 - [A brief History of the Internet](https://dl.acm.org/doi/pdf/10.1145/1629607.1629613)
 - [What is Web 2.0?](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html) (make sure to read all the pages)
