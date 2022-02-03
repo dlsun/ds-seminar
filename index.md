@@ -18,6 +18,15 @@ To earn a CR grade, you are expected to:
 
 ## Winter 2022
 
+### Week 5: February 9
+
+In the next two weeks, we will discuss transfer earning.
+
+Read the following two summaries about transfer learning and come prepared to discuss.  Also, *bring a laptop* as we will go through a transfer learning example in Google Colab together.
+
+* [Transfer Learning - Machine Learning's Next Frontier](https://ruder.io/transfer-learning/)
+* [The State of Transfer Learning in NLP](https://ruder.io/state-of-transfer-learning-in-nlp/)
+
 ### Week 4: January 26
 
 In the next two weeks, we will discuss tooling.
