@@ -18,17 +18,23 @@ To earn a CR grade, you are expected to:
 
 ## Winter 2022
 
-### Week 1: January 5
+### Week 4: January 26
 
-### Week 2: January 12
+In the next two weeks, we will discuss tooling.
 
-Our first unit is on **reproducibility**. Please read the following before this class and come prepared to discuss them both in terms of their content and how you feel they relate to your experiences and knowledge of data science:
+You will be assigned with a partner to research one of two technologies for data science: R or Python.
 
-- [https://www.nature.com/articles/533452a](https://www.nature.com/articles/533452a)
+The R group will research the advantages of:
 
-- [https://www.vox.com/future-perfect/21504366/science-replication-crisis-peer-review-statistics](https://www.vox.com/future-perfect/21504366/science-replication-crisis-peer-review-statistics)
+* R
+* R Markdown
 
-- [https://arxiv.org/pdf/2011.10098.pdf](https://arxiv.org/pdf/2011.10098.pdf)
+The Python group will research the advantages of:
+
+* Python
+* Jupyter notebooks
+
+Come prepared to discuss and debate the advantages of your assigned technology.
 
 ### Week 3: January 19
 
@@ -64,25 +70,17 @@ Come to class prepared to give a 5-minute presentation on what you come up with.
 
 * RMarkdown
 
+### Week 2: January 12
 
-### Week 4: January 26
+Our first unit is on **reproducibility**. Please read the following before this class and come prepared to discuss them both in terms of their content and how you feel they relate to your experiences and knowledge of data science:
 
-In the next two weeks, we will discuss tooling.
+- [https://www.nature.com/articles/533452a](https://www.nature.com/articles/533452a)
 
-You will be assigned with a partner to research one of two technologies for data science: R or Python.
+- [https://www.vox.com/future-perfect/21504366/science-replication-crisis-peer-review-statistics](https://www.vox.com/future-perfect/21504366/science-replication-crisis-peer-review-statistics)
 
-The R group will research the advantages of:
+- [https://arxiv.org/pdf/2011.10098.pdf](https://arxiv.org/pdf/2011.10098.pdf)
 
-* R
-* R Markdown
-
-The Python group will research the advantages of:
-
-* Python
-* Jupyter notebooks
-
-Come prepared to discuss and debate the advantages of your assigned technology.
-
+### Week 1: January 5
 
 ## Fall 2021
 
