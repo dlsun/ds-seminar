@@ -27,6 +27,14 @@ Read the following two summaries about transfer learning and come prepared to di
 * [Transfer Learning - Machine Learning's Next Frontier](https://ruder.io/transfer-learning/)
 * [The State of Transfer Learning in NLP](https://ruder.io/state-of-transfer-learning-in-nlp/)
 
+We prepared an [Google Colab notebook](https://colab.research.google.com/drive/1u0uiJ2gbJgvpml60uDp1yMp4gUSku9TB?usp=sharing) demonstrating transfer learning using CNN features.  
+
+For week 7, your task is to prepare a new transfer learning experiment.  Our suggested experiment to investigate the ridiculous question, "Is a hot dog a sandwich?"  If you wish to investigate this question, do the following:
+* Use transfer learning to train a classifier to distinguish sandwiches from other foods using [this dataset](https://www.dropbox.com/s/pica1ljf9ja7zi7/sandwich_or_not.zip?dl=1), which we extracted from the [Food-101 dataset on Kaggle](https://www.kaggle.com/kmader/food41).
+* Test the classifier on [images of hot dogs](https://www.dropbox.com/s/tmnrujo4r9ib7db/hot_dog.zip?dl=1), to allow a disinterested party (the classifier) to decide once and for all whether a hot dog is truly a sandwich.
+
+You are also welcome to design your own experiment, perhaps addressing a more serious question :)
+
 ### Weeks 4 and 5: January 26, February 2
 
 In the next two weeks, we will discuss tooling.
