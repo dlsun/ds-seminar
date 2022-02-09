@@ -27,6 +27,12 @@ For week 6, read the following two summaries about transfer learning and come pr
 * [Transfer Learning - Machine Learning's Next Frontier](https://ruder.io/transfer-learning/)
 * [The State of Transfer Learning in NLP](https://ruder.io/state-of-transfer-learning-in-nlp/)
 
+Be prepared to discuss the following simple questions:
+* What is transfer learning?
+* Why is it important?
+* Why is it difficult?
+* What are some common methods for transfer learning?
+
 We prepared a [Google Colab notebook](https://colab.research.google.com/drive/1u0uiJ2gbJgvpml60uDp1yMp4gUSku9TB?usp=sharing) to demonstrate transfer learning using CNN features.  
 
 For week 7, your task is to prepare a new transfer learning experiment.  Our suggested experiment to investigate the ridiculous question, "Is a hot dog a sandwich?"  If you wish to investigate this question, do the following:
