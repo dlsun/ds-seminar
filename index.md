@@ -25,10 +25,10 @@ In the next two weeks, we will discuss entity-relationship diagrams.
 
 Readings:
 
-* [Slides on ER modeling] (https://docs.google.com/presentation/d/1qYFYNZDyx118Ygm_eFQ0ZxEor41Uj3yN/edit?usp=sharing&ouid=101102744411525803742&rtpof=true&sd=true)
-Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database Systems: The Complete Book, Chapter 4, Available online, but link not provided because of copyright. 
-* [Practice Problem 1] (https://docs.google.com/document/d/1jqJ_QNCLaBrNbQpc-otGJ0K4DxrQTpKo/edit?usp=sharing&ouid=101102744411525803742&rtpof=true&sd=true)
-* [Practice Problem 2] (https://docs.google.com/document/d/1jzZ6HEYTsFJllenagpZW-R0tryR5oQcb/edit?usp=sharing&ouid=101102744411525803742&rtpof=true&sd=true)
+* [Slides on ER modeling](https://docs.google.com/presentation/d/1qYFYNZDyx118Ygm_eFQ0ZxEor41Uj3yN/edit?usp=sharing&ouid=101102744411525803742&rtpof=true&sd=true)
+* Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database Systems: The Complete Book, Chapter 4, Available online, but link not provided because of copyright. 
+* [Practice Problem 1](https://docs.google.com/document/d/1jqJ_QNCLaBrNbQpc-otGJ0K4DxrQTpKo/edit?usp=sharing&ouid=101102744411525803742&rtpof=true&sd=true)
+* [Practice Problem 2](https://docs.google.com/document/d/1jzZ6HEYTsFJllenagpZW-R0tryR5oQcb/edit?usp=sharing&ouid=101102744411525803742&rtpof=true&sd=true)
 
 ### Weeks 6 and 7: February 9 and 16
 
