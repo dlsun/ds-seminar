@@ -31,7 +31,7 @@ For this week we are splitting you into two teams of six people each. Both teams
 
 
 
-### Weeks 9 - 10: March 2nd and March 9th
+### Week 9: March 2nd 
 
 
 In the next two weeks, we will discuss entity-relationship diagrams.
