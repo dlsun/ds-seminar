@@ -18,7 +18,7 @@ To earn a CR grade, you are expected to:
 
 ## Winter 2022
 
-### Weeks 9: March 2nd
+### Weeks 9 - 10: March 2nd and March 9th
 
 
 In the next two weeks, we will discuss entity-relationship diagrams.
@@ -29,6 +29,25 @@ Readings:
 * Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database Systems: The Complete Book, Chapter 4, Available online, but link not provided because of copyright. 
 * [Practice Problem 1](https://docs.google.com/document/d/1jqJ_QNCLaBrNbQpc-otGJ0K4DxrQTpKo/edit?usp=sharing&ouid=101102744411525803742&rtpof=true&sd=true)
 * [Practice Problem 2](https://docs.google.com/document/d/1jzZ6HEYTsFJllenagpZW-R0tryR5oQcb/edit?usp=sharing&ouid=101102744411525803742&rtpof=true&sd=true)
+
+* Alex's E-R modeling lectures: [Part 1](http://users.csc.calpoly.edu/~dekhtyar/366-Spring2019/lectures/lec02.366.pdf)
+* Alex's E-R modeling lectures: [Part 2](http://users.csc.calpoly.edu/~dekhtyar/366-Spring2019/lectures/lec03.366.pdf)
+* Alex's E-R modeling lectures: [Part 3](http://users.csc.calpoly.edu/~dekhtyar/366-Spring2019/lectures/lec04.366.pdf)
+* Alex's E-R modeling lectures: [Part 4](http://users.csc.calpoly.edu/~dekhtyar/366-Spring2019/lectures/lec05.366.pdf)
+
+* Week 10 assignment [Requirements Spec](http://users.csc.calpoly.edu/~dekhtyar/366-Spring2015/project/01/Section01-requirments-Rosetta-v2.pdf)
+
+Week 10 assignment comes from the Spring 2015 CSC 366 course I taught. Our customer, Dmytro Marushkevich heads a data science team in a marketing company that at the time was called Rosetta, and now is called Sapient. Dmytro shared with us a real use case that he and his team had to work on, complete with real (although sanitized) data that CSC 366 students used.
+
+For this week we are splitting you into two teams of six people each. Both teams will have the same task:
+
+1. Read the requirements specification. It presents the data in service of a specific marketing goal that Rosetta has. It also presents the kinds of reports/data analysis the company wants to perform with the provided data.
+2. Build an Entity-Relationship model for the Rosetta dataset based on provided descriptions. (Understandably, you may not get it completely right, and the document itself omits some potentially important information, but we want you to get a reasonable start).
+3. On Wednesday, March 9, each team will present its proposed E-R model.   We will have a short breakout discussion, followed by a general discussion of what you have learned from this exerise and some comments from Alex Dekhtyar and Lubomir Stanchev.
+
+
+
+
 
 ### Weeks 6 and 7: February 9 and 16
 
