@@ -18,7 +18,7 @@ To earn a CR grade, you are expected to:
 
 ## Fall 2022
 
-The theme of the readings for Fall 2021 is **the past**.
+The theme of the readings for Fall 2022 is **the past**.
 
 ### Week 1: September 21
 
