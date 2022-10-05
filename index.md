@@ -66,3 +66,33 @@ In your assigned group of 6 students:
 - Pair 2 should collect, summarize, and present arguments **against** re-contextualizing scientific contributions in light of modern ethics.     
 - Pair 3 should collect, summarize, and present arguments **for** re-contextualizing scientific contributions in light of modern ethics.
 
+### Week 4: October 12
+
+We will look at the Frequentist vs. Bayes debate! Not only does this debate pertain to how you think and do your statistics and data science, but also to some of your ways of thinking every day! Please come prepared to defend both, although we want you will be asked to take a side in class.
+
+#### Required Reading:
+
+- New York Times Article: [The Odds, Continually Updated](readings/The%20Odds,%20Continually%20Updated%20-%20The%20New%20York%20Times.pdf)
+- [Frequentist and Bayesian Approaches in Statistics](https://www.probabilisticworld.com/frequentist-bayesian-approaches-inferential-statistics)
+- Efron, B. (2005). [Bayesians, frequentists, and scientists](https://dlsun.github.io/ds-seminar/readings/Bayesians,%20Frequentists,%20and%20Scientists.pdf). _Journal of the American Statistical Association_, 100(469), 1-5.
+- [The Boxer, the Wrestler, and the Coin Flip: A Paradox of Robust Bayesian Inference and Belief Functions](http://www.stat.columbia.edu/~gelman/research/published/augie4.pdf) Andrew Gelman, The American Statistician, May 2006, Vol. 60, No. 2
+- xkcd comic on [Frequentists vs. Bayesians](https://xkcd.com/1132/)
+
+Here are some additional readings that might be of interest.
+
+- MIT Lecture Notes: [Comparison of frequentist and Bayesian inference](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading20.pdf).
+- Efron, B. (1986). [Why isn't everyone a Bayesian?](https://dlsun.github.io/ds-seminar/readings/Why%20Isn't%20Everyone%20a%20Bayesian.pdf) _The American Statistician_, 40(1), 1-5.
+- Andrew Gelman's blog post: [Why I Don't Like Bayesian Statistics](https://statmodeling.stat.columbia.edu/2008/04/01/problems_with_b/). (This is an April Fools' Joke written by a famous Bayesian statistician. However, it contains some good ideas.)
+
+#### Assignment:
+
+We ask you to think carefully about these two sides: Frequentist and Bayes.  Questions to consider:
+
+- What are the strengths and weaknesses of each?
+- Is it possible be a little bit of both? Why or why not?
+- Think about your own beliefs about how probability and the likelihood of events work. In your day-to-day life (when not doing statistics or data science), do you tend to be more frequentist or bayesian? 
+
+In your assigned group of 6 students:
+- Pair 1 should organize and present the strengths of the Frequentist side and the weaknesses of the Bayesian side, as they pertain to statistics and data science work.
+- Pair 2 should organize and present the strengths of the Bayesian side and the weaknesses of the Frequentist side, as they pertain to statistics and data science work.     
+- Pair 3 should comment on how these two sides pertain to day-to-day life, and whether your position on them in this context should be related to your position on them in the context of your work. Be sure to think carefully and thoroughly here. Your comments might also include similarities between the two sides in certain situations. 
