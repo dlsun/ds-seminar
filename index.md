@@ -182,3 +182,18 @@ In your assigned group of 6 students:
 - Pair 1 should provide summaries of the CAP Theorem, MapReduce Paper, and the blog style article.
 - Pair 2 should discuss how Hadoop can be thrive as expectations and the technology mature (i.e., in a plateau of productivity phase). Specifically, they should focus on explaining and expanding on the third article's optimism for Hadoop. For example, the authors mention technologies maturing around Hadoop: optimized data formats (ORC, Parquet) and query engines (Impala, Presto, Dremel). This pair should also discuss and expand upon the emerging best practices, and should make a general case for the long-term viability of Hadoop ecosystem.
 - Pair 3 should discuss and expand upon why the third article's optimism for Hadoop is incorrect. They likewise should go through the article and prepare specific counterpoints to the author's claims of a "plateau of productivity" future for Hadoop.
+
+
+### Week 9: November 16
+Everyone needs to read the following:
+- [A brief History of the Internet](https://dl.acm.org/doi/pdf/10.1145/1629607.1629613)
+- [What is Web 2.0?](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html) (make sure to read all the pages)
+- [Semantic web](https://en.wikipedia.org/wiki/Semantic_Web)
+- [Chicken Farms on the Semantic Web](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4445616&casa_token=rQj24Wp1StkAAAAA:Z6z7-0ehk4PFab16P8LDUh2yoN53kPykBl7s9o7or4kQ7Nrw2f02kubxHFxHnmjjTKdDYvOkYw&tag=1)
+
+In your assigned group of 6:
+- Pair 1 presents fundamental forces (social, economical, political) that were crucial to development of the World Wide Web
+- Pair 2 explain the differences between Web 1.0 and Web 2.0. Use examples and products from your own life and interaction. Name the ways in which current technologies exptend from Web 2.0 enabling concepts. 
+- Pair 3 explain the semantic Web. How are things likely to change based on this in the near future? Use examples.
+
+Everyone: be sure to look up terms and products that you're reading about which you may not be familiar with (too old or discontinued). Teams need to be explain the terms in the papers that have to do with their subject, if asked during their presentations.
