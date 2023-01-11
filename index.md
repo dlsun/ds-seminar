@@ -16,6 +16,20 @@ To earn a CR grade, you are expected to:
 
 ## Readings
 
+## Winter 2023
+
+### Week 2: January 18
+
+Our first unit is on **reproducibility**. Please read the following before this class and come prepared to discuss them both in terms of their content and how you feel they relate to your experiences and knowledge of data science:
+
+- [https://www.nature.com/articles/533452a](https://www.nature.com/articles/533452a)
+
+- [https://www.vox.com/future-perfect/21504366/science-replication-crisis-peer-review-statistics](https://www.vox.com/future-perfect/21504366/science-replication-crisis-peer-review-statistics)
+
+- [https://arxiv.org/pdf/2011.10098.pdf](https://arxiv.org/pdf/2011.10098.pdf)
+
+### Week 1: January 11
+
 ## Fall 2022
 
 The theme of the readings for Fall 2022 is **the past**.
