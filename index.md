@@ -64,9 +64,9 @@ Our first unit is on **reproducibility**. Please read the following before this 
 
 **Please don't look at the following docs until class today!**
 
-Group 1: https://docs.google.com/document/d/1zlgi44LB8L8-5-gCTknCy54pKT_BjaqAVf7CoNvBIIU/edit?usp=sharing
+Group 1: [https://docs.google.com/document/d/1zlgi44LB8L8-5-gCTknCy54pKT_BjaqAVf7CoNvBIIU/edit?usp=sharing](https://docs.google.com/document/d/1zlgi44LB8L8-5-gCTknCy54pKT_BjaqAVf7CoNvBIIU/edit?usp=sharing)
 
-Group 2: https://docs.google.com/document/d/1PsQwkE8OoAg9h7Q8LP_DZ135U5Z29hEd7lk7fUJCfd0/edit?usp=sharing
+Group 2: [https://docs.google.com/document/d/1PsQwkE8OoAg9h7Q8LP_DZ135U5Z29hEd7lk7fUJCfd0/edit?usp=sharing](https://docs.google.com/document/d/1PsQwkE8OoAg9h7Q8LP_DZ135U5Z29hEd7lk7fUJCfd0/edit?usp=sharing)
 
 ### Week 1: January 11
 
