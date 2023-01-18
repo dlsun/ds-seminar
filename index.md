@@ -18,6 +18,40 @@ To earn a CR grade, you are expected to:
 
 ## Winter 2023
 
+### Week 3: January 25
+
+By this class, in your same groups of three from the activity on January 18, you should pick two data science tools from the following list to compare and contrast with respect to **reproducibility**. What are the pros? What are the cons? Is one of them clearly better than the other? Why?
+
+Come to class prepared to give a 5-minute presentation on what you come up with.
+
+* RStudio
+
+* PyCharm
+
+* Jupyter
+
+* Google Colab
+
+* Amazon Web Services
+
+* Google Docs
+
+* Github
+
+* GitLab
+
+* Slack
+
+* Dropbox
+
+* Tableau
+
+* LaTeX
+
+* Microsoft Office
+
+* RMarkdown
+
 ### Week 2: January 18
 
 Our first unit is on **reproducibility**. Please read the following before this class and come prepared to discuss them both in terms of their content and how you feel they relate to your experiences and knowledge of data science:
@@ -27,6 +61,12 @@ Our first unit is on **reproducibility**. Please read the following before this 
 - [https://www.vox.com/future-perfect/21504366/science-replication-crisis-peer-review-statistics](https://www.vox.com/future-perfect/21504366/science-replication-crisis-peer-review-statistics)
 
 - [https://arxiv.org/pdf/2011.10098.pdf](https://arxiv.org/pdf/2011.10098.pdf)
+
+**Please don't look at the following docs until class today!**
+
+Group 1: https://docs.google.com/document/d/1zlgi44LB8L8-5-gCTknCy54pKT_BjaqAVf7CoNvBIIU/edit?usp=sharing
+
+Group 2: https://docs.google.com/document/d/1PsQwkE8OoAg9h7Q8LP_DZ135U5Z29hEd7lk7fUJCfd0/edit?usp=sharing
 
 ### Week 1: January 11
 
