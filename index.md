@@ -18,6 +18,24 @@ To earn a CR grade, you are expected to:
 
 ## Winter 2023
 
+### Week 4: February 1
+
+In the next week, we will discuss tooling.
+
+You need to pick a partner to research one of two technologies for data science: R or Python. Before class make sure you know which tool you're researching and that the assignments are balanced across all pairs of students.
+
+The R group will research the advantages of:
+
+* R
+* R Markdown
+
+The Python group will research the advantages of:
+
+* Python
+* Jupyter notebooks
+
+Come prepared to discuss and debate the advantages of your assigned technology.
+
 ### Week 3: January 25
 
 By this class, in your same groups of three from the activity on January 18, you should pick two data science tools from the following list to compare and contrast with respect to **reproducibility**. What are the pros? What are the cons? Is one of them clearly better than the other? Why?
