@@ -18,6 +18,12 @@ To earn a CR grade, you are expected to:
 
 ## Winter 2023
 
+### Week 5: February 8
+
+In this next exercise you'll be working with a team, again, to analyze some data in an attempt to do some classification. Please read the instructions and access the data at the following link, and come prepared to next week's class:
+
+[https://drive.google.com/drive/folders/1vXFloq65bmXzwWfB-K6VMJtnWbRy52I3](https://drive.google.com/drive/folders/1vXFloq65bmXzwWfB-K6VMJtnWbRy52I3)
+
 ### Week 4: February 1
 
 In the next week, we will discuss tooling.
