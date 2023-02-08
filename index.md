@@ -18,6 +18,35 @@ To earn a CR grade, you are expected to:
 
 ## Winter 2023
 
+### Week 6: February 15
+
+One of the dangers of AI and Machine Learning technologies becoming ubiquitous is that they inevitably become the tools in product marketing, fundraising, and attention-grabbing campaigns.  As data scientists we do not always control how our work is presented to others and in what form.  As consumers we may want to recognize when claims of AI use exceed plausibility, or spurious.
+
+AI/ML researchers and sociologists started using the term "AI snake oil" to discuss situations when AI technology is being sold for unsuitable purposes, or when the marketing claims of AI input into a company's product are dubious.
+
+Looking at the problem from another angle, we as data scientists, machine learning experts and AI researchers must understand the limitations of the tools we use to analyze data, make predictions, and obtain insight from data.  We must be able to separate the real contributions and capabilities of AI/ML systems from the claims made in public space.
+
+So, let's take a look at how AI snake oil works and how to recognize it.
+
+For next week's assignment, watch  Arvind Narayanan's talk "How to Recognize AI Snake Oil" available here:  [https://www.cs.princeton.edu/news/how-recognize-ai-snake-oil](https://www.cs.princeton.edu/news/how-recognize-ai-snake-oil)
+(1 hour 37 minutes)
+
+The slides for the talk can be found here: [https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf](https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf)
+
+For some additional insight and takes, you can also watch this University of Oxford virtual panel on Fake AI, snake oil, pseudoscience and hype by a group of authors of the book "Fake AI, pseudosicence, snake oil and hype":
+[https://www.youtube.com/watch?v=w1f0Sj-st9g&ab_channel=OxfordInternetInstitute%2CUniversityofOxford](https://www.youtube.com/watch?v=w1f0Sj-st9g&ab_channel=OxfordInternetInstitute%2CUniversityofOxford)
+(1 hour 4 minutes)
+
+In preparation for the discussion, break into groups of 4 people each and discuss the following questions:
+
+* What is AI snake oil? How would you define it for yourselves?
+* What are the signs of AI snake oil? How can you spot them?
+* How do you draw the line between legitimate claims of contributions of AI/ML/data science methods to a marketable product (e.g., a software system), and the AI snake oil-style claims?
+* What do you feel are the obligations of data scientists/ML engineers w.r.t. to flawed AI claims made about their work by others?
+* Where is the boundary between harmless and harmful when it comes down to flawed AI claims?
+
+In class, we will discuss each question in turn, each group is expected to have a summary of thoughts on each question prepared for sharing with the rest of the Fellowship.
+
 ### Week 5: February 8
 
 In this next exercise you'll be working with a team, again, to analyze some data in an attempt to do some classification. Please read the instructions and access the data at the following link, and come prepared to next week's class:
