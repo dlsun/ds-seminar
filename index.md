@@ -18,6 +18,12 @@ To earn a CR grade, you are expected to:
 
 ## Winter 2023
 
+### Week 7: February 22
+
+In this next exercise you'll be working with a team, again, to revisit the kidney disease dataset. Please read the instructions for the second assignment and access the data at the following link, and come prepared to next week's class:
+
+[https://drive.google.com/drive/folders/1vXFloq65bmXzwWfB-K6VMJtnWbRy52I3](https://drive.google.com/drive/folders/1vXFloq65bmXzwWfB-K6VMJtnWbRy52I3)
+
 ### Week 6: February 15
 
 One of the dangers of AI and Machine Learning technologies becoming ubiquitous is that they inevitably become the tools in product marketing, fundraising, and attention-grabbing campaigns.  As data scientists we do not always control how our work is presented to others and in what form.  As consumers we may want to recognize when claims of AI use exceed plausibility, or spurious.
