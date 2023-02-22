@@ -18,6 +18,22 @@ To earn a CR grade, you are expected to:
 
 ## Winter 2023
 
+### Week 8: March 1
+
+We're going to begin discussing ChatGPT, and other similar tools, over the next couple of weeks and likely next quarter too! If you're unfamiliar with ChatGPT, please read the following short synopsis:
+
+[https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/](https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/)
+
+It is extremely exciting and powerful. Your first assignment concerning ChatGPT involves the following:
+
+* Research "AI hallucination". What does it mean? What does it involve?
+
+* **Team 1 (Bella, Erik, Sucheen, Sam V.)**: Force ChatGPT to hallucinate and come prepared to share the experiences with the class. What topics did you choose and what did ChatGPT do? Bonus points for bringing examples that make the other two teams' jobs more challenging!
+
+* **Team 2 (Anthony, Zachary, Anagha, Sam W.)**: Come to class prepared to discuss why AI hallucination is a bad and dangerous thing.
+
+* **Team 3 (Sarah, Sophia, Leander)**: Come to class prepared to discuss why AI hallucination is not a serious issue and that we don't need to worry too much about it.
+
 ### Week 7: February 22
 
 In this next exercise you'll be working with a team, again, to revisit the kidney disease dataset. Please read the instructions for the second assignment and access the data at the following link, and come prepared to next week's class:
