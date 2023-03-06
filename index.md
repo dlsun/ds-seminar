@@ -18,6 +18,26 @@ To earn a CR grade, you are expected to:
 
 ## Winter 2023
 
+### Week 9: March 8
+
+We'll finish off this quarter with another discussion about ChatGPT. Please complete the following reading and prepare for our discussion this Wednesday via the following assignments.
+
+* Reading: [https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html](https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html)
+
+All teams should prepare the following from two perspectives: 
+
+1. Us as an ongoing data science fellowship
+
+2. A lay audience. That is, summarize this reading for your friends, parents, or other contacts might know less about AI and data science than you.
+
+* **Team 1 (Bella, Zachary, Leander)**: Summarize the reading. 
+
+* **Team 2 (Erik, Anthony, Sarah, Sam V.)**: Compare/contrast ChatGPT to an entity like the octopus from the story. 
+
+* **Team 3 (Sucheen, Sam V., Sophia, Anagha)**: Compare/contrast ChatGPT to a parrot. 
+
+Finally, last week we talked about the idea of using and citing ChatGPT...and its limitations. Please come prepared to discuss when it would be appropriate to cite ChatGPT and how you would do so.
+
 ### Week 8: March 1
 
 We're going to begin discussing ChatGPT, and other similar tools, over the next couple of weeks and likely next quarter too! If you're unfamiliar with ChatGPT, please read the following short synopsis:
