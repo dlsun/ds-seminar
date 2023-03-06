@@ -34,7 +34,7 @@ All teams should prepare the following from two perspectives:
 
 * **Team 2 (Erik, Anthony, Sarah, Sam V.)**: Compare/contrast ChatGPT to an entity like the octopus from the story. 
 
-* **Team 3 (Sucheen, Sam V., Sophia, Anagha)**: Compare/contrast ChatGPT to a parrot. 
+* **Team 3 (Sucheen, Sam w., Sophia, Anagha)**: Compare/contrast ChatGPT to a parrot. 
 
 Finally, last week we talked about the idea of using and citing ChatGPT...and its limitations. Please come prepared to discuss when it would be appropriate to cite ChatGPT and how you would do so.
 
