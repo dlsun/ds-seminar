@@ -16,6 +16,52 @@ To earn a CR grade, you are expected to:
 
 ## Readings
 
+## Spring 2023
+
+### Week 6: May 10
+
+**Data Feminism**
+
+Guest speaker: Dr. Allison Theobold
+
+### Week 5: May 3
+
+**Under the Covers of GPT-3**
+
+Guest speaker: Jim Bodwin
+
+
+### Week 4: April 26
+
+TBD
+
+### Week 3: April 19
+
+TBD
+
+### Week 2: April 12
+
+Topic: Predicting the future of the field
+
+> "I have traveled the length and breadth of this country and talked with the best people, and I can assure you that data processing is a fad that won't last out the year."
+> - Editor of Prentice Hall business books, 1957
+
+It's easy to look back and laugh at predictions of the future that turned out to be dead wrong.  As we move into speculative readings, that suggest hypothetical future directions for Data Science, how do we know which ones are plausible?  This week you'll read papers from the past, and compare them to a recent paper that looks ahead to the next decades of data.
+
+Readings
+1. [On the Future of Statistics (1942)](https://www.jstor.org/stable/2980609?casa_token=PP52fd7TNakAAAAA%3AqoJm6zjE9CUjLzRL3Xnoo2OScq0rqkS1QCeldkF0frjietpKs1PnFZcb0hWUKfAkhk1Qd6JAgtcdQVligKPBySNAf2fqKlhw36qTW733RANyevTa7us&seq=9#metadata_info_tab_contents)
+2. [The Future of Statistics as a Discipline (1981)](https://apps.dtic.mil/dtic/tr/fulltext/u2/a116258.pdf)
+3. [The Future of Statistics and Data Science (2018)](https://discovery.ucl.ac.uk/id/eprint/10045833/1/olhede-article-finalv4.pdf)
+
+In your groups, one person should read each paper.
+
+Each person find at least 2 quotes or ideas that are, in your opinion, accurate or true today; and at least 2 that do not seem to hold up.  As a group, choose a few of your favorites to present, along with references to support the accuracy/inaccuracy of the prediction.
+
+### Week 1: April 5
+
+In-Class activity: Cards Against Data Science
+
+
 ## Winter 2023
 
 ### Week 9: March 8
