@@ -20,13 +20,13 @@ To earn a CR grade, you are expected to:
 
 ### Week 6: May 10
 
-**Data Feminism**
+Topic: Data Feminism
 
 Guest speaker: Dr. Allison Theobold
 
 ### Week 5: May 3
 
-**Under the Covers of GPT-3**
+Topic: Under the Covers of GPT-3
 
 Guest speaker: Jim Bodwin
 
@@ -37,7 +37,13 @@ TBD
 
 ### Week 3: April 19
 
-TBD
+Topic: Examples of Explainable Boosting
+
+The paper covers the tradeoffs between accuracy and explainability in a predication model. It claims that explainable boosting can give us the best of both worlds. Read the paper critically and try to answer the question: “Is explainable boosting really the solution that we have all been waiting for?”
+
+Readings
+
+Robert Kubler, [The Explainable Boosting Machine As accurate as gradient boosting, as interpretable as linear regression.](https://towardsdatascience.com/the-explainable-boosting-machine-f24152509ebb)
 
 ### Week 2: April 12
 
