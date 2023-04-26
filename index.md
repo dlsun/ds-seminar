@@ -33,7 +33,23 @@ Guest speaker: Jim Bodwin
 
 ### Week 4: April 26
 
-TBD
+Topic:  Reproducibility
+
+*Job security through code obscurity*
+
+Have you ever inherited code so impossible to follow, you decided it was easier to rewrite it yourself?  
+
+In this class, we'll learn by counterexample, by implementing the most difficult to read and inefficient code possible, then trying to figure out what's going on in each other's messy code.
+
+Rules:
+* Your code must successfully achieve the assigned goal, in either R or python.
+* You may **not** add any comments that are not accurate.
+* You may **not** add complexity by adding unnecessary lines that do unrelated calculations.
+* You may **not** add complexity by splitting simple calculations into many steps, e.g. turning `b = a + 2` into `c = a + 1` and `b = c + 1`
+* You **may** add confusion by giving things bad names, e.g. `sum_ab = a - b`
+* You **may** take inefficient approaches to calculations that have more efficient shortcuts.
+
+
 
 ### Week 3: April 19
 
