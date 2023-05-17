@@ -18,6 +18,36 @@ To earn a CR grade, you are expected to:
 
 ## Spring 2023
 
+### Week 9: May 31
+
+TBD
+
+### Week 8: May 24
+
+Topic: Towards Fair, Transparent and Accountable AI
+
+Many of our discussions this year have considered the ethical implications of AI and the many pitfalls inherent in the machine learning process.  This week we will consider strategies to ensure that future AI systems are fair, transparent, and accountable, and ask whether this is even a realistic possibility.
+
+Readings
+1. [Hutson, M. It’s Too Easy to Hide Bias in Deep-Learning Systems.  IEEE Spectrum, January 2021.](https://spectrum.ieee.org/computing/software/its-too-easy-to-hide-bias-in-deeplearning-systems)
+2. [Mitchell et al., Model Cards for Model Reporting.  FAT* '19: Proceedings of the Conference on Fairness, Accountability, and Transparency, January 2019.](https://dl.acm.org/doi/abs/10.1145/3287560.3287596)
+
+The first reading points out the many ways in which an organization might try to make their AI system appear fair and unbiased, while actually operating in a biased manner.  It also discusses some possible strategies to address this problem.  The second reading proposes a way to address this problem head on, by providing a performance "report card" along with the AI model when it is distributed.  
+
+Your groups will present a [Hippocratic Oath of AI](https://en.wikipedia.org/wiki/Hippocratic_Oath).  Each of your statements in the Oath should be supported by examples or quotes from these or other readings from this year.
+
+
+### Week 7: May 17
+
+Topic: Generative Art
+
+[In-Class Video: Generating Basic Tiling with turtle](https://www.youtube.com/watch?v=Cm_SzDlQ2cM)
+
+In-Class Activity:  Make your first art piece.  Each person should produce their own unique piece, but your group's collection should have something in common, such as similar colors, similar movement principles, etc.
+
+Homework: Watch the remaining videos in the series.  By Week 10, produce a more complex piece or series of pieces, including titles.  We will have a "gallery" at the Week 10 meeting/party.
+
+
 ### Week 6: May 10
 
 Topic: Data Feminism
