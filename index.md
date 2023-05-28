@@ -18,9 +18,29 @@ To earn a CR grade, you are expected to:
 
 ## Spring 2023
 
+### Week 10: June 7th
+
+Wrap-up and celebration!
+
+Don't forget to send in you artwork (Week 7 homework) by June 6th.
+
 ### Week 9: May 31
 
-TBD
+Topic: Recommender Systems
+
+One of the things missing from our Data Science discussions in DATA NNN coursework and beyond are recommender systems and recommendation engines. This is in part because quite a bit of methodology that goes into recommendation engines comes from classification, regression and clustering. But this is also somewhat unfortunate, because there are issues that are specific to recommender engines that get ignored. This week you are reading two surveys on recommender systems.
+
+[Recommender Systems Survey (Bobadilla et. al, 2013)](https://www.sciencedirect.com/science/article/abs/pii/S0950705113001044)
+
+This is a general survey of recommender systems. It is somewhat old for "future" being the general theme, but it is a good overview of the current state of non-deep-learning systems.
+
+[Deep Learning based Recommender System: A Survey and New Perspectives (Zhang et. al, 2018)](https://arxiv.org/pdf/1707.07435.pdf). This is a newer and more in-depth technical survey documenting how deep learning techniques are used in the guts of the recommender engines.
+
+How to read these? 
+* The first survey is broad and not overly technical. Read fully. This will give you the background and the set up for reading the second paper. 
+* The second paper has a lot of technical content. This may be useful for you in the future, should you be tasked with building a recommendation system. In the meantime, you can internalize the methodology that is being discussed, but do not have to get too deep into the math.
+
+Please come to class prepared to discuss the first paper, and with at least one *already written down* short paragraph summarizing *one* takeaway or idea from the second paper that you kind of understood or were interested to learn more about.
 
 ### Week 8: May 24
 
